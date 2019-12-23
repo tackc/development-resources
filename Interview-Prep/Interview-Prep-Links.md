@@ -12,6 +12,8 @@
 
 * [28 Relevant Javascript Interview Questions](https://blog.usejournal.com/28-relevant-javascript-interview-questions-part-1-of-7-ff376be12a99)
 
+* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
 * [The STAR Method](https://www.google.com/amp/s/www.themuse.com/amp/advice/star-interview-method)
     * Perfect for those interviews when you are asked to:
         * Tell me about a time when…
