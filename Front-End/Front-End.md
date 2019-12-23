@@ -6,3 +6,4 @@
 
 * [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
+[CSS Layouts](https://csslayout.io/) - a collection of popular layouts and patterns made with CSS
