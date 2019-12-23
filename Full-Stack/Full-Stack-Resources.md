@@ -7,3 +7,4 @@
 
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 
+* [Become a Web Developer in 180 Days (Without a CS Degree)](https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1)
