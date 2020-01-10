@@ -22,6 +22,10 @@
         * Give me an example of…
         * Describe a...
 
+* [React Interview Questions](https://github.com/Pau1fitz/react-interview)
+
+* [React Interview Questions - 2](https://github.com/sudheerj/reactjs-interview-questions)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
