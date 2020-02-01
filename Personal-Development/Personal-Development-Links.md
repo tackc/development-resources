@@ -5,3 +5,5 @@
 * [Jim Kwik](https://jimkwik.com) - Expert in speed-reading, memory improvement and optimal brain performance
 
 * [Life Changing Books](https://dariusforoux.com/reading-list/)
+
+* [What should people in leadership roles actually be doing all week](https://medium.com/swlh/what-should-people-in-leadership-roles-actually-be-doing-all-week-67de8c24fd2)
