@@ -1,5 +1,7 @@
 # Interview Prep Materials
 
+### Nearly 80% of the interview questions asked were on Strings, Trees, and Recursion
+
 * [The motherload or resources](https://www.freecodecamp.org/news/software-engineering-interviews-744380f4f2af/)
 
 * [bytebybyte](https://www.byte-by-byte.com/six-software-engineering-interview-questions/)
