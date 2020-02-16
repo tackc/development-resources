@@ -30,6 +30,8 @@
 
 * [React Interview Questions - 2](https://github.com/sudheerj/reactjs-interview-questions)
 
+* [10 JavaScript Interview Questions for 2020](https://medium.com/javascript-in-plain-english/10-javascript-interview-questions-for-2020-697b40de9480)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
