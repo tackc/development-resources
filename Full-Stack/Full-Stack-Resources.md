@@ -11,3 +11,16 @@
 
 * [Build a production-ready frontend, 
 even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
+
+* [11 Useful Online Tools](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
+    - [CanIUse](http://caniuse.com) - Check browser compatability
+    - [Minify](http://minify.com) - Reduce file size by reducing whitespaces and dead code
+    - [Bit.dev](https://bit.dev) - Reusable components
+    - [Unminify](https://unminify.com)
+    - [Stackblitz](http://stackblitz.com) - Quick scaffold of Angular, React, Vue, Vanilla, RxJS, and TypeScript projects
+    - [JWT.io](https://jwt.io) - Decode JWT payload
+    - [BundlePhobia](http://bundlephobia.com) - Check size of package.json dependencies that will be installed
+    - [Babel REPL](http://javascriptbabeljs.io) - Transpile ES6+ code to ES5
+    - [Prettier Playground](http://prettier.io) - JS code formatter
+    - [Postman](https://www.postman.com) - Test API Endpoints
+    - [JSLint](http://jslint.com) - Clean up your code!
