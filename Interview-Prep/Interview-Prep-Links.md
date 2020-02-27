@@ -32,6 +32,8 @@
 
 * [10 JavaScript Interview Questions for 2020](https://medium.com/javascript-in-plain-english/10-javascript-interview-questions-for-2020-697b40de9480)
 
+* [Can You Explain What a Closure Is?](https://medium.com/better-programming/a-basic-interview-question-can-you-explain-what-a-closure-is-710b75384d48)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
