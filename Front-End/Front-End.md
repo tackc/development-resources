@@ -6,4 +6,6 @@
 
 * [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
-[CSS Layouts](https://csslayout.io/) - a collection of popular layouts and patterns made with CSS
+* [CSS Layouts](https://csslayout.io/) - a collection of popular layouts and patterns made with CSS
+
+* [Number Inputs](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) - best practices for implementing a number input that is accessible
