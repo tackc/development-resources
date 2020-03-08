@@ -11,3 +11,5 @@
 * [What should people in leadership roles actually be doing all week](https://medium.com/swlh/what-should-people-in-leadership-roles-actually-be-doing-all-week-67de8c24fd2)
 
 * [Why Most People Never Get What They Want](https://benjaminhardy.com/why-most-people-never-get-what-they-want/)
+
+* [Why Millennials Quit: A Letter To Incompetent Leaders](https://medium.com/swlh/why-millennials-quit-a-letter-to-incompetent-leaders-65ef778611eb)
