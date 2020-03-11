@@ -24,3 +24,5 @@ even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API moc
     - [Prettier Playground](http://prettier.io) - JS code formatter
     - [Postman](https://www.postman.com) - Test API Endpoints
     - [JSLint](http://jslint.com) - Clean up your code!
+
+* [How to Create Your First MERN Stack](https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
