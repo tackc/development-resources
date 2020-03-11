@@ -5,3 +5,5 @@
 * [React Dropdown](https://www.carlrippon.com/react-drop-down-data-binding/)
 
 * [8 Useful Tricks for React Apps](https://medium.com/better-programming/8-useful-tricks-for-react-apps-you-should-know-a15c2678c846)
+
+* [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)
