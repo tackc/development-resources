@@ -11,3 +11,6 @@
 * [Number Inputs](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) - best practices for implementing a number input that is accessible
 
 * [6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)
+
+* [5 Front-End Predictions and Trends for 2020](https://medium.com/better-programming/5-front-end-predictions-and-trends-for-2020-afc949e0eba2)
+
