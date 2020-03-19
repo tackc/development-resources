@@ -8,7 +8,7 @@ Function that does some pre-processing on the 'req' and 'res' objects. Primary m
 * Function expressions— work well as methods for literal objects, not so great for class methods
 * Arrow functions — nice, when you need to have the parent scope while passing the function around, but not a great fit as any type of method
 
-[symlink or Symbolic Link](https://devdojo.com/tutorials/what-is-a-symlink) - A shortcut to another file. You can create a symlink in terminal by using the following command: 
+* [symlink or Symbolic Link](https://devdojo.com/tutorials/what-is-a-symlink) - A shortcut to another file. You can create a symlink in terminal by using the following command: 
 ```unix
 ln -s target_path link_path
 ```
