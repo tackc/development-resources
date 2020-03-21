@@ -8,3 +8,10 @@
     }
 ```
 
+### Simple way to center things
+``` CSS
+.class {
+    display: grid;
+    place-items: center center;
+}
+```
