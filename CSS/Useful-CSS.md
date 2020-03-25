@@ -15,3 +15,17 @@
     place-items: center center;
 }
 ```
+
+### [Scroll Snap](https://blog.logrocket.com/how-to-use-css-scroll-snap/) - Customize scroll-stop points on a page
+There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align`
+``` CSS
+.container {
+ scroll-snap-type: [ x | y | block | inline | both ] [ mandatory | proximity ];
+}
+```
+``` CSS
+.children {
+ scroll-snap-align: [ none | start | end | center ]{1,2};
+}
+```
+
