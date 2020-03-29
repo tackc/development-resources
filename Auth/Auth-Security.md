@@ -4,3 +4,4 @@
 
 * [Password Cracking...how long it takes](https://hackernoon.com/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1) - Great article that briefly discusses how quickly easy passwords can be cracked
 
+* [The moment when you realize every server in the world is vulnerable](https://medium.com/@tashian/hash-table-attack-8e4371fc5261) - Article discussing hash tables and cryptographic vs. non-cryptographic hash functions
