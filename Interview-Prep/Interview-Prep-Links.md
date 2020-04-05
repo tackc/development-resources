@@ -45,3 +45,7 @@
 * [Real Technical Interview Questions](https://medium.com/javascript-in-plain-english/real-technical-interview-questions-a3829febaa95)
 
 * [Tips for landing your first engineering job](https://medium.com/javascript-in-plain-english/tips-for-landing-your-first-engineering-job-8b3c7ed9e89a)
+
+## Résumé
+
+[How to write a killer Software Engineering résumé](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)
