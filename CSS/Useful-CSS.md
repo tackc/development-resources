@@ -29,3 +29,4 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 }
 ```
 
+### [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill empty background with beautiful patterns. [GitHub](https://github.com/bansal-io/pattern.css?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
