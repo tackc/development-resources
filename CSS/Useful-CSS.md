@@ -25,7 +25,7 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 ```
 ``` CSS
 .children {
- scroll-snap-align: [ none | start | end | center ]{1,2};
+ scroll-snap-align: [ none | start | end | center ] 1,2;
 }
 ```
 
