@@ -10,3 +10,4 @@
 
 * [How I Share React Components Between Projects](https://medium.com/javascript-in-plain-english/how-i-share-react-components-between-projects-3896d853cbee)
 
+* [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure)
