@@ -15,3 +15,5 @@
 * [5 Front-End Predictions and Trends for 2020](https://medium.com/better-programming/5-front-end-predictions-and-trends-for-2020-afc949e0eba2)
 
 * [Baymard Institute - UX Research](https://baymard.com) - "Empower Your E-Commerce Design with 49,000+ Hours of UX Research"
+
+* [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource
