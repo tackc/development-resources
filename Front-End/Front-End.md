@@ -16,4 +16,4 @@
 
 * [Baymard Institute - UX Research](https://baymard.com) - "Empower Your E-Commerce Design with 49,000+ Hours of UX Research"
 
-* [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource
+* [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource. [Here is a link directly to the PDF](https://toc.cryptobook.us/book.pdf)
