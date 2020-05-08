@@ -18,3 +18,5 @@ ln -s target_path link_path
 ag your-search
 ```
 
+### [Regular Expression](https://refrf.shreyasminocha.me/book/)
+* a sequence of characters that define a search pattern
