@@ -11,3 +11,5 @@
 * [How I Share React Components Between Projects](https://medium.com/javascript-in-plain-english/how-i-share-react-components-between-projects-3896d853cbee)
 
 * [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure)
+
+* [Implementing Dark Mode In React Apps Using styled-components](https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/?utm_source=CSS-Weekly&utm_campaign=Issue-409&utm_medium=email)
