@@ -7,3 +7,5 @@
 * [CSS Weekly](https://css-weekly.com/archives)
 
 * [Dan Abramov's Blog](https://overreacted.io)
+
+* [Tanner Linsley](https://tannerlinsley.com)
