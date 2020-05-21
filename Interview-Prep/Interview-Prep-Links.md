@@ -49,3 +49,17 @@
 ## Résumé
 
 [How to write a killer Software Engineering résumé](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)
+
+## Practice
+
+* https://tevko.github.io/practice/
+
+* https://www.codewars.com/
+
+* https://coderbyte.com/
+
+* https://www.hackerrank.com/
+
+* https://LeetCode.com/
+
+* https://www.interviewx.co/
