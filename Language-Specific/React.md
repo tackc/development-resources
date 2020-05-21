@@ -13,3 +13,5 @@
 * [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure)
 
 * [Implementing Dark Mode In React Apps Using styled-components](https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/?utm_source=CSS-Weekly&utm_campaign=Issue-409&utm_medium=email)
+
+* [How to Conditionally Render React Components](https://medium.com/better-programming/conditional-rendering-in-react-components-bea51e34f3a1)
