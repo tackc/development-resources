@@ -12,4 +12,5 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
     * public-key encryption
     * digital signatures
     * cryptographic protocols
-    
+
+* [node.js auth package (password, facebook, & more) for Connect and Express apps](https://github.com/bnoguchi/everyauth) - [http://everyauth.com/](http://everyauth.com/)
