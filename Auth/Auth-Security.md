@@ -12,3 +12,5 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
     * public-key encryption
     * digital signatures
     * cryptographic protocols
+
+* [18 UX Design Tips for Registration and Login Forms](https://uxplanet.org/18-ux-design-tips-for-registration-and-login-forms-f897557358ba)
