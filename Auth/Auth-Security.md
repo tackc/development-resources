@@ -14,3 +14,5 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
     * cryptographic protocols
 
 * [18 UX Design Tips for Registration and Login Forms](https://uxplanet.org/18-ux-design-tips-for-registration-and-login-forms-f897557358ba)
+
+* [Hack This Site](https://www.hackthissite.org) - Hack This Site is a free, safe and legal training ground for hackers to test and expand their hacking skills.
