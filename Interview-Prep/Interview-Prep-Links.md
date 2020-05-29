@@ -34,6 +34,8 @@
 
 * [Can You Explain What a Closure Is?](https://medium.com/better-programming/a-basic-interview-question-can-you-explain-what-a-closure-is-710b75384d48)
 
+* [5 Must Know Interview Questions For JavaScript](https://medium.com/javascript-in-plain-english/5-must-know-interview-questions-for-javascript-bd9000c56e7a)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
