@@ -36,6 +36,8 @@
 
 * [5 Must Know Interview Questions For JavaScript](https://medium.com/javascript-in-plain-english/5-must-know-interview-questions-for-javascript-bd9000c56e7a)
 
+* [JavaScript Quickfire interview questions](https://medium.com/javascript-in-plain-english/24-quick-fire-javascript-interview-questions-a71f78d03f08)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
