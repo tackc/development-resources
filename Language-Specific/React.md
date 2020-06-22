@@ -17,3 +17,5 @@
 * [How to Conditionally Render React Components](https://medium.com/better-programming/conditional-rendering-in-react-components-bea51e34f3a1)
 
 * [Understand and use useState Hooks in React](https://dev.to/emmanuel_dal/understand-and-use-usestate-hooks-in-react-jij)
+
+* [React Router](https://reacttraining.com/react-router/web/api/Redirect)
