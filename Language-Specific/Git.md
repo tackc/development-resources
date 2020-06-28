@@ -7,3 +7,5 @@
 * Selectively choose portion of changes to stage: `git add --patch <filename>`
 
 * [Git Docs](https://git-scm.com/docs)
+
+* [Git Rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
