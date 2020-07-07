@@ -19,3 +19,5 @@
 * [Understand and use useState Hooks in React](https://dev.to/emmanuel_dal/understand-and-use-usestate-hooks-in-react-jij)
 
 * [React Router](https://reacttraining.com/react-router/web/api/Redirect)
+
+* [React Stack example](https://medium.com/better-programming/my-favourite-react-stack-1beda91ae909) - Great article that breaks down several major options when building a React app
