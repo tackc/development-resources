@@ -17,3 +17,5 @@
 * [Baymard Institute - UX Research](https://baymard.com) - "Empower Your E-Commerce Design with 49,000+ Hours of UX Research"
 
 * [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource. [Here is a link directly to the PDF](https://toc.cryptobook.us/book.pdf)
+
+* [MVP.CSS](https://andybrewer.github.io/mvp/) - When you're ready to launch a site already without making it look perfect. MVP styles your root elements so you don't need to learn a new CSS framework or naming conventions
