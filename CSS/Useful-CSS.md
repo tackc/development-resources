@@ -41,3 +41,4 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
         <div></div>
     </body>
 ```
+* [Useful Guide to CSS Variables](https://increment.com/frontend/a-users-guide-to-css-variables/?utm_source=CSS-Weekly&utm_campaign=Issue-413&utm_medium=email)
