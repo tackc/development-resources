@@ -21,3 +21,4 @@
 * [React Router](https://reacttraining.com/react-router/web/api/Redirect)
 
 * [React Stack example](https://medium.com/better-programming/my-favourite-react-stack-1beda91ae909) - Great article that breaks down several major options when building a React app
+* [Performant Development with React](https://medium.com/dev-red/these-5-tips-will-change-the-way-you-write-react-apps-75e97c90d5c8)
