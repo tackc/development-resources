@@ -8,3 +8,5 @@
 
 ## Computer Science
 * [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome)
+
+* [General Assembly CS Courses](http://my.generalassemb.ly)
