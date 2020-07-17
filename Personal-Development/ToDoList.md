@@ -14,3 +14,6 @@
     * Algorithms
     * Data Structures
     * Design Patterns
+
+## Resume
+* [How to get your resume past the robots](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands)
