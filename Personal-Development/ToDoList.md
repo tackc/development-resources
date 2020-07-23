@@ -5,6 +5,7 @@
 * [React Hook Form](https://react-hook-form.com)
 
 ## Learn About:
+* [TypeScript](https://www.typescriptlang.org)
 
 ## React Native
 * [The Complete React Native + Hooks Course - 2020 Edition](https://www.udemy.com/course/the-complete-react-native-and-redux-course/learn)
