@@ -42,3 +42,14 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
     </body>
 ```
 * [Useful Guide to CSS Variables](https://increment.com/frontend/a-users-guide-to-css-variables/?utm_source=CSS-Weekly&utm_campaign=Issue-413&utm_medium=email)
+
+* To make a child element fill the parent completely:
+``` CSS
+    div {
+        position: 'absolute',
+        top: 0,
+        right: 0,
+        bottom: 0,
+        left: 0,
+    }
+```
