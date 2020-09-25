@@ -19,3 +19,5 @@
 * [Class Central](https://www.classcentral.com) - Browse thousands of free online courses from top universities around the world
 
 * [How to get your resume past the robots](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands)
+
+* [34 Hard Truths You Should Know Before Becoming “Successful”](https://benjaminhardy.com/35-hard-truths-you-should-know-before-becoming-successful-2/)
