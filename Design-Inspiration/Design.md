@@ -1,3 +1,5 @@
 # Design Inspiration
 
 * [Design Snips](http://designsnips.com/category/inspiration/)
+
+* [MSKTR Fashion Instagram Stories](https://elements.envato.com/msktr-fashion-instagram-stories-2CZH4H) - I really like this design for an image portfolio app
