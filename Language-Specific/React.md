@@ -25,3 +25,5 @@
 * [Performant Development with React](https://medium.com/dev-red/these-5-tips-will-change-the-way-you-write-react-apps-75e97c90d5c8)
 
 * [Babeljs.io](https://babeljs.io) - Allows you to enter JSX and get code back in javascript
+
+* [React Loader Spinner](https://www.npmjs.com/package/react-loader-spinner) - animated loader animations
