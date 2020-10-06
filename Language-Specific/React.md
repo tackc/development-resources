@@ -27,3 +27,5 @@
 * [Babeljs.io](https://babeljs.io) - Allows you to enter JSX and get code back in javascript
 
 * [React Loader Spinner](https://www.npmjs.com/package/react-loader-spinner) - animated loader animations
+
+* [React Countup](https://www.npmjs.com/package/react-countup) - add a counter to react pages easily
