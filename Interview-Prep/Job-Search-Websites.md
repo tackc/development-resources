@@ -4,7 +4,7 @@
 
 * [Codepen](https://codepen.io/jobs/)
 
-* [Angel.co](* angel.co)
+* [Angel.co](https://angel.co)
 
 * [We Work Remotely](https://weworkremotely.com)
 
