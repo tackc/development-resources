@@ -12,6 +12,16 @@
 
 * [Indeed](https://www.indeed.com)
 
+* [GeekWire](https://www.geekwire.com/jobs/) - Tech and Startup Jobs
+
+* [We Work Remotely](https://weworkremotely.com)
+
+* [Flex Jobs](https://www.flexjobs.com) - The #1 job site to find remote, work from home, and flexible job opportunities since 2007.
+
+* [Hubstaff](https://talent.hubstaff.com/work) - Hubstaff has thousands of clients looking for quality, remote agencies and freelancers.
+
+* [The Muse](https://www.themuse.com) - Find everything you need to succeed from dream jobs to career advice.
+
 ## Job Search Strategy
 
 * [Career One Stop](https://www.careeronestop.org) - "Your source for career exploration, training & jobs"
