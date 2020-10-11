@@ -29,3 +29,5 @@
 * [Events in America](https://eventsinamerica.com/) - Listing of trade shows in the US
 
 * [Book of Lists](https://promo.bizjournals.com/bookoflists/) - Local company data that identifies opportunities and competition. The perfect resource for Sales Prospecting, Job Search, Fundraising, and Research. 
+
+* [Career Sidekick](https://careersidekick.com/) - The right job search skills can get you more interviews, more job offers, and more money throughout your career. Choose a topic below to start learning how:
