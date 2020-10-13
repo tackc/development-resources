@@ -1,6 +1,6 @@
 # React Native
 
-[Official docs on React Native](https://facebook.github.io/react-native/docs/getting-started)
+[Official docs on React Native](https://reactnative.dev/docs)
 
 Using Expo CLI:
 * Start a new app by typing:
