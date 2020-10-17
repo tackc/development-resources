@@ -22,6 +22,8 @@
 
 * [The Muse](https://www.themuse.com) - Find everything you need to succeed from dream jobs to career advice.
 
+* [Toptal](https://www.toptal.com/developers) - Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies hire Toptal freelancers for their most important projects.
+
 ## Job Search Strategy
 
 * [Career One Stop](https://www.careeronestop.org) - "Your source for career exploration, training & jobs"
