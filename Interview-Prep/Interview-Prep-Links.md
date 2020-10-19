@@ -38,6 +38,8 @@
 
 * [JavaScript Quickfire interview questions](https://medium.com/javascript-in-plain-english/24-quick-fire-javascript-interview-questions-a71f78d03f08)
 
+* [Codility](https://app.codility.com/programmers/lessons/1-iterations/) - Computer science lessons
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
