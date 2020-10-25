@@ -7,3 +7,5 @@
 * [Working with Dynamic Font Scaling](https://joshbuchea.com/react-native-text-size-font-scaling/) - An accessibility setting on iOS that allows users to adjust their default font sizes. This can break the UI of some apps or cause strange font display issues
 
 * [Using Absolute Paths in React Native](https://medium.com/better-programming/using-absolute-paths-in-react-native-3be369244fb1)
+
+* [Password AutoFill, Automatic Strong Password, and Security Code AutoFill](https://developerinsider.co/ios12-password-autofill-automatic-strong-password-and-security-code-autofill/)
