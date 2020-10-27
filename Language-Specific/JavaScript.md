@@ -28,3 +28,5 @@ JavaScript numbers natively support conversion to binary representations via the
 (255).toString(2); // "11111111" (radix 2, i.e. binary)
 (255).toString(16); // "ff" (radix 16, i.e. hexadecimal)
 ```
+
+* [CREATING UNIQUE, MERGED ARRAYS USING JAVASCRIPT'S SET](https://robkendal.co.uk/blog/2020-02-04-creating-unique-merged-arrays-using-javascripts-set-and-more)
