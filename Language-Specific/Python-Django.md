@@ -5,3 +5,5 @@
   2. Use cases execute the business logic and run the side effects.
   3. Views receive the input, delegate the process, return the output.
   4. Templates deal only with the markup that will be processed by the view.
+
+* [How to Think Like a Computer Scientist](https://www.openbookproject.net/thinkcs/python/english2e/index.html)
