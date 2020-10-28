@@ -40,6 +40,8 @@
 
 * [Codility](https://app.codility.com/programmers/lessons/1-iterations/) - Computer science lessons
 
+* [Top 7 CSS Interview Questions](https://blog.repl.it/Top-7-CSS-Interview-Questions-career-karma?ref=newsletter)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
