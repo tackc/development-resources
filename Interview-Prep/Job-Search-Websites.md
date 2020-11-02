@@ -24,6 +24,8 @@
 
 * [Toptal](https://www.toptal.com/developers) - Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies hire Toptal freelancers for their most important projects.
 
+* [Gun.io](https://www.gun.io) - Candidates on the Gun.io platform have passed code, culture, and reference assessments, and are automatically matched to you based on your unique hiring needs.
+
 ## Job Search Strategy
 
 * [Career One Stop](https://www.careeronestop.org) - "Your source for career exploration, training & jobs"
