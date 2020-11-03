@@ -2,8 +2,8 @@
 
 Many of these strategies are adapted from George Polya's book *How to Solve It* 
 
-### Steps for solving problems
-1. Understand the Problems
+## Steps for solving problems
+### 1. Understand the Problems
 
     1. Can I restate the problem in my own words
     2. What inputs go into the problem
@@ -11,19 +11,20 @@ Many of these strategies are adapted from George Polya's book *How to Solve It*
     4. Can the outputs be determined from the inputs
     5. How should I label important pieces of data (variable names and such)
 
-2. Explore Concrete Examples
+### 2. Explore Concrete Examples
 
     1. Write down 2-3 simple examples
     2. Progress to more complex examples
     3. Explore examples with empty inputs
     4. Explore examples with invalid inputs
 
-3. Break It Down
+### 3. Break It Down
 
     1. Explicitly write the steps you need to take (makes you catch conceptual ideas or misunderstandings before diving in)
 
         • Put simply
-            ```
+
+            ```javascript
                 function charCount(str) {
                     // create object to return at end
                     // loop over string for each character...
@@ -34,14 +35,14 @@ Many of these strategies are adapted from George Polya's book *How to Solve It*
                 }
             ```
 
-4. Solve / Simplify (if you can't, solve a simpler problem)
+### 4. Solve / Simplify (if you can't, solve a simpler problem)
 
     * Find the core difficulty in what you're trying to do
     * Temporarily ignore that difficulty
     * Write a simplified solution
     * Then incorporate difficulty back in
 
-5. Look Back and Refactor
+### 5. Look Back and Refactor
 
     * Can you check the result?
     * Can you derive the result differently?
@@ -50,3 +51,4 @@ Many of these strategies are adapted from George Polya's book *How to Solve It*
     * Can you improve the performance of the solution?
     * Can you think of other ways to refactor?
     * How have other people solved this problem?
+    
