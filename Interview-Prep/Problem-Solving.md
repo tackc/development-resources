@@ -51,4 +51,28 @@ Many of these strategies are adapted from George Polya's book *How to Solve It*
     * Can you improve the performance of the solution?
     * Can you think of other ways to refactor?
     * How have other people solved this problem?
-    
+
+---
+## Eight Must-Know Algorithms for Coding Interviews
+
+### 1. Data Structure Manipulation
+
+### 2. Searching (depth-first & breadth-first)
+    * Word Ladder Problem
+
+### 3. Combinations & Permutations
+    * Zero One Knapsack Problem
+
+### 4. Sort (quick, merge, insertion, etc.)
+    * How to sort arbitrary data structures
+
+### 5. Binary Search
+    * In rotated array, find the pivot point
+
+### 6. Topological Sort
+    * Useful when looking at graph problems 
+    * When trying to order data based on any sort of restrictions
+
+### 7. Recursion (http://byte-by-byte.com/recursion)
+
+### 8. Dynamic Programming (http://dynamicprogrammingbook.com)
