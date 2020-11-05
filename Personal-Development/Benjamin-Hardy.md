@@ -34,3 +34,13 @@
     * Novelty and nutrition — the two things your brain needs to be optimal and remain young.
     * Creativity — you need to put first things first, which means you do your most creative and important work first thing in the morning. If you don’t, you’ll never know what true productivity means.
     * Courage — every day, you need to do something different and outside your current comfort zone. Courage is the starting point of all growth and evolution. It takes courage to embrace the uncertainties of unpredictable outcomes and new behaviors.
+
+### Daily Routine
+  * wake up
+  * drink water
+  * cold shower (optional)
+  * get dressed
+  * meditate/pray
+  * visualize/write down goals
+  * create/work (eat the frog)
+  * do something courageous!
