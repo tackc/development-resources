@@ -44,3 +44,19 @@
   * visualize/write down goals
   * create/work (eat the frog)
   * do something courageous!
+
+### Goals
+  * Specific
+  * Quantifiable
+  * Trackable!
+
+### Forcing Functions
+  * Sunk cost bias - when you invest in something, you are more compelled to follow through
+  * Point of no return is major differentiator between wannabes and real entrepreneurs 
+  * Your level of investment forces you to be who you want to be. You must become committed
+  * Creating conditions that allow things to happen…don’t over attach to goals
+
+### The 4 Categories of Activities
+  ![Detail](https://www.dropbox.com/s/ryo8ve5xmuengfg/activities_1.png?dl=0)
+
+  
