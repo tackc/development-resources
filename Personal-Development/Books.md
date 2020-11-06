@@ -9,6 +9,7 @@
 ## Benjamin Hardy Recommendations
 
 - [Napolean Hill](https://www.naphill.org/)
+  - Think and Grow Rich
 
 - Essentialism: The Disciplined Pursuit of Less - Greg McKeown
 
@@ -41,3 +42,9 @@
 - The Man Who Tapped the Secrets of the Universe - Glenn Clark
 
 - The Magic of Thinking Big
+
+## Mom's Recommendations
+
+- [The Victory Book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy4Y-El-7sAhXUvp4KHUypBlgQFjAAegQIARAC&url=https%3A%2F%2Fwww.amazon.com%2FVictory-Book-Workbook-Rapidly-Financial%2Fdp%2F1878605070&usg=AOvVaw0TW1fmnVvtChZN9yJv7GYz) - The workbook that will take you Rapidly out of debt.
+
+- [It's Not Working Brother John](https://www.amazon.com/Its-Not-Working-Brother-John/dp/0892748982)
