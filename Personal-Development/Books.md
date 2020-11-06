@@ -8,6 +8,8 @@
 
 ## Benjamin Hardy Recommendations
 
+- [Napolean Hill](https://www.naphill.org/)
+
 - Essentialism: The Disciplined Pursuit of Less - Greg McKeown
 
 - Malcom Gladwell
