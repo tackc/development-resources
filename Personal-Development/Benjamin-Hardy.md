@@ -57,6 +57,4 @@
   * Creating conditions that allow things to happen…don’t over attach to goals
 
 ### The 4 Categories of Activities
-  ![Detail](https://www.dropbox.com/s/ryo8ve5xmuengfg/activities_1.png?dl=0)
-
-  
+  ![The Eisenhower Box](https://jamesclear.com/wp-content/uploads/2014/04/eisenhower-box.jpg)
