@@ -21,3 +21,11 @@
 * [How to get your resume past the robots](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands)
 
 * [34 Hard Truths You Should Know Before Becoming “Successful”](https://benjaminhardy.com/35-hard-truths-you-should-know-before-becoming-successful-2/)
+
+### Context Based Learning
+
+  1. Learn a concept
+  2. Practice and use that concept in a real-world scenario
+  3. Get coaching and feedback
+  4. Repeat
+  5. Get coaching and feedback
