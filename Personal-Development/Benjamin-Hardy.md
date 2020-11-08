@@ -58,3 +58,5 @@
 
 ### The 4 Categories of Activities
   ![The Eisenhower Box](https://jamesclear.com/wp-content/uploads/2014/04/eisenhower-box.jpg)
+
+### [How To Learn In 2 Days What Normally Takes 6 Months](https://medium.com/the-mission/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4#.nlmzzar6j)
