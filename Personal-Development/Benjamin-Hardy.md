@@ -60,3 +60,23 @@
   ![The Eisenhower Box](https://jamesclear.com/wp-content/uploads/2014/04/eisenhower-box.jpg)
 
 ### [How To Learn In 2 Days What Normally Takes 6 Months](https://medium.com/the-mission/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4#.nlmzzar6j)
+
+### How to reframe your subconscious mind
+* Never go to bed without providing a request to your subconscious mind
+    * Meditation / prayer
+    * Writing in journal
+    * Stating positive affirmations
+* Right before bed, think about goals, challenges, affirm
+    * I’m going to make $100k in the next 6 months
+    * Who do I need to reach out to in order to accomplish x
+* Journal first thing in the morning
+    * What to journal about:
+        * Goals (income, relationship, something that would make me really happy)
+            * Set a powerful goal and then write everything associated to that goal
+            * Set goals that are 10x what you think you can do. Goals that are only 2x end up creating meaningless tasks and thus more stress
+        * Anything that comes to mind
+        * Anything I’m going to do today
+        * Who I want to reach out to
+        * Kind of person I want to be
+        * Things I’m grateful for
+* When actions / insights come to mind, write them down and act immediately
