@@ -43,6 +43,8 @@
 
 - The Magic of Thinking Big
 
+- The 80/20 Principle: The Secret to Achieving More with Less - Richard Koch
+
 ## Mom's Recommendations
 
 - [The Victory Book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy4Y-El-7sAhXUvp4KHUypBlgQFjAAegQIARAC&url=https%3A%2F%2Fwww.amazon.com%2FVictory-Book-Workbook-Rapidly-Financial%2Fdp%2F1878605070&usg=AOvVaw0TW1fmnVvtChZN9yJv7GYz) - The workbook that will take you Rapidly out of debt.
