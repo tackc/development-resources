@@ -20,3 +20,6 @@ ag your-search
 
 ### [Regular Expression](https://refrf.shreyasminocha.me/book/)
 * a sequence of characters that define a search pattern
+
+### [Currying](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)
+* Currying is a process in functional programming in which we can transform a function with multiple arguments into a sequence of nesting functions. It returns a new function that expects the next argument inline.
