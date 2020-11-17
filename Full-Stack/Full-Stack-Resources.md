@@ -28,3 +28,5 @@ even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API moc
 * [How to Create Your First MERN Stack](https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
 
 * [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
+
+* [ElectronJS](https://www.electronjs.org) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
