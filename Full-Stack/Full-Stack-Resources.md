@@ -30,3 +30,10 @@ even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API moc
 * [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
 
 * [ElectronJS](https://www.electronjs.org) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+* [strapi.io](https://strapi.io) - Design APIs fast, manage content easily.
+
+* [socket.io](https://socket.io) - Socket.IO enables real-time, bidirectional and event-based communication.
+It works on every platform, browser or device, focusing equally on reliability and speed.
+
+* [Hygen](http://www.hygen.io) - The scalable code generator that saves you time.
