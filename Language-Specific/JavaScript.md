@@ -30,3 +30,37 @@ JavaScript numbers natively support conversion to binary representations via the
 ```
 
 * [CREATING UNIQUE, MERGED ARRAYS USING JAVASCRIPT'S SET](https://robkendal.co.uk/blog/2020-02-04-creating-unique-merged-arrays-using-javascripts-set-and-more)
+
+### [Event Handler vs addEventListner](https://medium.com/dailyjs/whats-the-difference-between-event-handlers-addeventlistener-in-js-963431f05c34)
+* If you add two of the same event handlers to the same element, the second one will overwrite the first:
+```
+  const button = document.querySelector(".btn")
+    
+  button.onclick = () => {
+    console.log("Hello!");
+  };
+
+  button.onclick = () => {
+    console.log("How are you?");
+  };
+
+  // This wil log "How are you?" to the console.
+```
+
+* You can add multiple event listners to the same element:
+```
+  const button = document.querySelector(".btn")
+  
+  button.addEventListener("click", event => {
+    console.log("Hello!");
+  })
+  
+  button.addEventListener("click", event => {
+    console.log("How are you?");
+  })
+
+  // This wil log 
+  // "Hello!"
+  // "How are you?"
+  // to the console
+```
