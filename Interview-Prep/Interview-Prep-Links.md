@@ -42,6 +42,8 @@
 
 * [Top 7 CSS Interview Questions](https://blog.repl.it/Top-7-CSS-Interview-Questions-career-karma?ref=newsletter)
 
+* [Khan Academy - Recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/properties-of-recursive-algorithms)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
