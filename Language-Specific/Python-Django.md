@@ -7,3 +7,5 @@
   4. Templates deal only with the markup that will be processed by the view.
 
 * [How to Think Like a Computer Scientist](https://www.openbookproject.net/thinkcs/python/english2e/index.html)
+
+* [Full Stack Python](https://www.fullstackpython.com/react.html)
