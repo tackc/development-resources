@@ -64,3 +64,5 @@ JavaScript numbers natively support conversion to binary representations via the
   // "How are you?"
   // to the console
 ```
+
+* [TensorFlow.js](https://www.tensorflow.org/js/) - Develop ML models in JavaScript, and use ML directly in the browser or in Node.js
