@@ -80,6 +80,8 @@
 
 * https://exercism.io
 
+* https://app.codesignal.com
+
 # Phone Interviews
 
 * [22 Phone Interview Tips to Help You Nail the Call (and Move to the Next Round)](https://www.themuse.com/advice/phone-interview-tips-preparation#tip20)
