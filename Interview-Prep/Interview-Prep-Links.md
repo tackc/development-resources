@@ -44,6 +44,8 @@
 
 * [Khan Academy - Recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/properties-of-recursive-algorithms)
 
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
