@@ -13,3 +13,5 @@
 * [iOS - Password Autofill](https://developer.apple.com/documentation/security/password_autofill)
 
 * [Support Universal Links](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/UniversalLinks.html) - 
+
+* [How to create responsive layouts in React Native](https://medium.com/miquido/how-to-create-responsive-layouts-in-react-native-7c4cfa15f1de)
