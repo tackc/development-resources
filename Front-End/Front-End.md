@@ -21,3 +21,12 @@
 * [MVP.CSS](https://andybrewer.github.io/mvp/) - When you're ready to launch a site already without making it look perfect. MVP styles your root elements so you don't need to learn a new CSS framework or naming conventions
 
 * [Useful Code Snippets](https://www.30secondsofcode.org)
+
+* APIs to know:
+  * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  * [Canvas API](https://www.w3schools.com/tags/ref_canvas.asp)
+  * [Full Screen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
+  * [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
+  * [Payment Request API](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
+  * [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+  
