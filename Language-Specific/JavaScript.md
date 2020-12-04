@@ -68,3 +68,5 @@ JavaScript numbers natively support conversion to binary representations via the
 * [TensorFlow.js](https://www.tensorflow.org/js/) - Develop ML models in JavaScript, and use ML directly in the browser or in Node.js
 
 * [ES2021 New Features](https://medium.com/javascript-in-plain-english/whats-new-in-es2021-99921c01f220)
+
+* [Factory Function](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
