@@ -5,3 +5,5 @@
 * [MSKTR Fashion Instagram Stories](https://elements.envato.com/msktr-fashion-instagram-stories-2CZH4H) - I really like this design for an image portfolio app
 
 * [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+
+* [Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
