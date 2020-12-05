@@ -29,3 +29,5 @@
 * [React Loader Spinner](https://www.npmjs.com/package/react-loader-spinner) - animated loader animations
 
 * [React Countup](https://www.npmjs.com/package/react-countup) - add a counter to react pages easily
+
+* [React Design Patterns](https://reactpatterns.com)
