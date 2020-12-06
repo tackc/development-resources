@@ -20,3 +20,5 @@
     * [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
     * [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
     * [Daily Interview Questions](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+
+* [Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d) - Explaining common different architecture patterns
