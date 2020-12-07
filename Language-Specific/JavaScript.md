@@ -70,3 +70,5 @@ JavaScript numbers natively support conversion to binary representations via the
 * [ES2021 New Features](https://medium.com/javascript-in-plain-english/whats-new-in-es2021-99921c01f220)
 
 * [Factory Function](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+
+* [10 Most Popular JavaScript Libraries to Use in 2021](https://medium.com/javascript-in-plain-english/top-10-most-popular-javascript-libraries-to-use-in-2021-5da60f187992)
