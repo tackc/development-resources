@@ -57,3 +57,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
 
 * [Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
+
+* [What Can You Put in a CSS Variable?](https://codersblock.com/blog/what-can-you-put-in-a-css-variable/)
