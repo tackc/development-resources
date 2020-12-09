@@ -29,9 +29,9 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 }
 ```
 
-### [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill empty background with beautiful patterns. [GitHub](https://github.com/bansal-io/pattern.css?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
+### [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill empty background with beautiful patterns. [GitHub](https://github.com/bansal-io/pattern.css)
 
-### [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/?utm_source=CSS-Weekly&utm_campaign=Issue-405&utm_medium=email)
+### [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 
 ---
 
@@ -41,7 +41,7 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
         <div></div>
     </body>
 ```
-* [Useful Guide to CSS Variables](https://increment.com/frontend/a-users-guide-to-css-variables/?utm_source=CSS-Weekly&utm_campaign=Issue-413&utm_medium=email)
+* [Useful Guide to CSS Variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
 
 * To make a child element fill the parent completely:
 ``` CSS
