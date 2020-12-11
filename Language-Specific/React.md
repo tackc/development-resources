@@ -31,3 +31,14 @@
 * [React Countup](https://www.npmjs.com/package/react-countup) - add a counter to react pages easily
 
 * [React Design Patterns](https://reactpatterns.com)
+
+* [setTimeout in React Components Using Hooks](https://upmostly.com/tutorials/settimeout-in-react-components-using-hooks) - 
+  ```js
+    useEffect(() => {
+      const timer = setTimeout(() => {
+        console.log('This will run after 1 second!')
+      }, 1000);
+      return () => clearTimeout(timer);
+    }, []);
+  ```
+  
