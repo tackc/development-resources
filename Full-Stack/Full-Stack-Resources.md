@@ -37,3 +37,5 @@ even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API moc
 It works on every platform, browser or device, focusing equally on reliability and speed.
 
 * [Hygen](http://www.hygen.io) - The scalable code generator that saves you time.
+
+* [Adding ESLint to your project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
