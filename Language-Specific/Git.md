@@ -1,5 +1,7 @@
 # Git Resources
 
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 * [Oh Shit, Git!?!](https://ohshitgit.com) - Fantastic git resource to fix git mistakes
 
 * [Sync fork to original repo](https://digitaldrummerj.me/git-syncing-fork-with-original-repo/)
