@@ -2,9 +2,13 @@
 
 ### [Developer Roadmap](https://github.com/tackc/developer-roadmap) - A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops
 ---
-### Nearly 80% of the interview questions asked were on Strings, Trees, and Recursion
+### General Resources
+
+#### Nearly 80% of the interview questions asked were on Strings, Trees, and Recursion
 
 * [The motherload or resources](https://www.freecodecamp.org/news/software-engineering-interviews-744380f4f2af/)
+
+* [Coding Career Fastlane](https://codingcareerfastlane.com)
 
 * [bytebybyte](https://www.byte-by-byte.com/six-software-engineering-interview-questions/)
 
