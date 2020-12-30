@@ -15,3 +15,5 @@
 * [Support Universal Links](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/UniversalLinks.html) - 
 
 * [How to create responsive layouts in React Native](https://medium.com/miquido/how-to-create-responsive-layouts-in-react-native-7c4cfa15f1de)
+
+* [Upload Images to AWS S3 in React Native 0.60+](https://medium.com/better-programming/upload-images-to-aws-s3-in-react-native-0-60-f20c547a963c)
