@@ -39,3 +39,7 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [Hygen](http://www.hygen.io) - The scalable code generator that saves you time.
 
 * [Adding ESLint to your project](https://medium.com/dailyjs/adding-eslint-to-your-project-7bd4feca35a8)
+
+* [DEV](https://dev.to) - We're a place where coders share, stay up-to-date and grow their careers.
+
+* [Dev Docs](https://devdocs.io) - syntax, manuals, and references for different front-end languages and libraries
