@@ -29,4 +29,5 @@
   * [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
   * [Payment Request API](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
   * [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-  
+
+* [Skeleton Loading Screen](https://medium.com/better-programming/the-what-why-and-how-of-using-a-skeleton-loading-screen-e68809d7f702)
