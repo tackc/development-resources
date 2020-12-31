@@ -23,3 +23,6 @@ ag your-search
 
 ### [Currying](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)
 * Currying is a process in functional programming in which we can transform a function with multiple arguments into a sequence of nesting functions. It returns a new function that expects the next argument inline.
+
+### [Factory Functions](https://www.sitepoint.com/factory-functions-javascript/)
+* When a function returns an object, we call it a factory function.
