@@ -22,4 +22,9 @@
 * Change Last Commit Message
   * `git commit --amend [-m '<message>']`
   * If the old commit had already been pushed, you’ll need to additionally run `git push --force-with-lease <remote> <branch>`
+  * Note: As a general rule, and especially if you’re working with others, it’s important to be careful when making any changes to already pushed commits.
+
+* Delete Last Commit but Keep the Changes - You’ve committed changes that you’d like to keep, but for whatever reason, you don’t want the commit itself.
+  * `git reset HEAD^`
+  * Note: The warning about making changes to already pushed commits holds here too!
   
