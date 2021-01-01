@@ -14,5 +14,7 @@
 
 * [Git Forks and Upstreams](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
 
+* [Useful git commands](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139)
+
 * View contents of stash by running `git stash show -p` 
   * -p says that we want to see the actual content of the stash. Omitting it will show only the file names.
