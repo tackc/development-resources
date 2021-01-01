@@ -18,3 +18,8 @@
 
 * View contents of stash by running `git stash show -p` 
   * -p says that we want to see the actual content of the stash. Omitting it will show only the file names.
+
+* Change Last Commit Message
+  * `git commit --amend [-m '<message>']`
+  * If the old commit had already been pushed, you’ll need to additionally run `git push --force-with-lease <remote> <branch>`
+  
