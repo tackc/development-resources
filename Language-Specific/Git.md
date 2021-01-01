@@ -13,3 +13,6 @@
 * [Git Rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 
 * [Git Forks and Upstreams](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+
+* View contents of stash by running `git stash show -p` 
+  * -p says that we want to see the actual content of the stash. Omitting it will show only the file names.
