@@ -34,3 +34,5 @@
 * Details Tag - The ```<details>``` tag provides on-demand details for the user. Used when you want to show a table of content that has some information on-demand.
 
 * Output Tag - The ```<output>``` tag represents the result of a calculation
+
+* Entity Codes always begin with `&` and end with `;`
