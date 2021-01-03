@@ -42,3 +42,4 @@
     }, []);
   ```
   
+  * [Log in with JWT Authentication in Rails and React](https://medium.com/analytics-vidhya/log-in-with-jwt-authentication-in-rails-and-react-a3dddd7f934)
