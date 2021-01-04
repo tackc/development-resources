@@ -22,3 +22,5 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
 * [Web Caching Basics](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
 
 * [Authentication without password](https://magic.link) - One SDK for passwordless, WebAuthn, and social login - fully customizable.
+
+* [Inside a Hacker's Backpack: Gadgets, Tips, and Tricks for Hackers](https://hackernoon.com/inside-a-hackers-backpack-gadgets-tips-and-tricks-for-hackers-5i6b31ie)
