@@ -61,3 +61,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [What Can You Put in a CSS Variable?](https://codersblock.com/blog/what-can-you-put-in-a-css-variable/)
 
 * [CSS Grid Layouting made easy in React Apps](https://medium.com/@paramsingh_66174/css-grid-layouting-made-easy-in-react-apps-a8a6b1a23531)
+
+* [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
