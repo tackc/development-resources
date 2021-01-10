@@ -52,3 +52,10 @@
 - [The Victory Book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy4Y-El-7sAhXUvp4KHUypBlgQFjAAegQIARAC&url=https%3A%2F%2Fwww.amazon.com%2FVictory-Book-Workbook-Rapidly-Financial%2Fdp%2F1878605070&usg=AOvVaw0TW1fmnVvtChZN9yJv7GYz) - The workbook that will take you Rapidly out of debt.
 
 - [It's Not Working Brother John](https://www.amazon.com/Its-Not-Working-Brother-John/dp/0892748982)
+
+## Coding Books
+- 3 Books to Improve Your Coding Skills
+  - Algorithms by Robert Sedgewick
+  - Code Complete by Steve McConnell
+  - Functional Thinking by Neal Ford
+  
