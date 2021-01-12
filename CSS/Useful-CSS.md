@@ -63,3 +63,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [CSS Grid Layouting made easy in React Apps](https://medium.com/@paramsingh_66174/css-grid-layouting-made-easy-in-react-apps-a8a6b1a23531)
 
 * [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
+
+* [Writing Your CSS like This Will Make Your Code Super-Clean](https://levelup.gitconnected.com/writing-your-css-like-this-will-make-your-code-super-clean-f82d4bfeb468)
