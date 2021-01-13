@@ -54,6 +54,9 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
     }
 ```
 
+* CSS comes with a `:optional` and `:required` pseudo-class for the input, select, and textarea tag.
+---
+
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
 
 * [Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
