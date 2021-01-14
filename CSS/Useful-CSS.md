@@ -55,6 +55,9 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 ```
 
 * CSS comes with a `:optional` and `:required` pseudo-class for the input, select, and textarea tag.
+
+* Adding `loading="lazy"` to the img instructs the browser to only start fetching the image as it gets closer to the screen and is likely to actually be rendered.
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
