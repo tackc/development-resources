@@ -43,3 +43,24 @@
   ```
   
   * [Log in with JWT Authentication in Rails and React](https://medium.com/analytics-vidhya/log-in-with-jwt-authentication-in-rails-and-react-a3dddd7f934)
+
+* Optimize list rendering with `useMemo`. For example:
+```js
+  import React, { useMemo } from 'react';
+
+  function SortedListView ({ title, items, comparisonFunc }) {
+    const sortedItems = useMemo(() => {
+      const sortedItems = [...items];
+      sortedItems.sort(comparisonFunc);
+      return sortedItems;
+    }, [items, comparisonFunc]);
+    return (
+      <div>
+        <h1> {title} </h1>
+        <ul>
+          {sortedItems.map(item => <li> {item} </li>)}
+        </ul>
+      </div>
+    );
+  }
+```
