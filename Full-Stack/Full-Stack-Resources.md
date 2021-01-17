@@ -43,3 +43,8 @@ It works on every platform, browser or device, focusing equally on reliability a
 * [DEV](https://dev.to) - We're a place where coders share, stay up-to-date and grow their careers.
 
 * [Dev Docs](https://devdocs.io) - syntax, manuals, and references for different front-end languages and libraries
+
+* [web.dev](https://web.dev) - Great resource for everything web:
+    - Techniques for improving site performance.
+    - Measuring performance and user experience.
+    - Essential metrics for a healthy site.
