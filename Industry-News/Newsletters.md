@@ -9,3 +9,8 @@
 * [Dan Abramov's Blog](https://overreacted.io)
 
 * [Tanner Linsley](https://tannerlinsley.com)
+
+
+# Useful Websites
+
+* [Web Designer News](https://www.webdesignernews.com)
