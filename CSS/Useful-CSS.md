@@ -71,3 +71,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 
 * [Writing Your CSS like This Will Make Your Code Super-Clean](https://levelup.gitconnected.com/writing-your-css-like-this-will-make-your-code-super-clean-f82d4bfeb468)
+
+* [CSS Tricks](https://css-tricks.com)
