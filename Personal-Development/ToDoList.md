@@ -27,3 +27,9 @@
     * [Writing a CV](http://www.imperial.ac.uk/careers/application-process/cv/) - CV and cover letter resource from the Imperial College - London
 
 * [How to get your resume past the robots](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands)
+
+## Software Career Development
+* [A Career Roadmap for Engineers in Their 30's](https://medium.com/swlh/a-career-roadmap-for-engineers-in-their-30s-b478117c5922)
+    - Build a Network
+    - Get a Mentor
+    - Make a Value-Based Resume
