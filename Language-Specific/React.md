@@ -67,7 +67,7 @@
 
 * [Consuming a REST API with React Hooks (using design patterns)](https://medium.com/weekly-webtips/implementing-a-rest-api-with-react-hooks-using-patterns-2ea1476e2a05) - This article discusses abstracting low level calls away to separate business logic from display
 
-## Useful Packages
+## Useful Libraries
 
 * [react-select](https://react-select.com/home) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
 
