@@ -7,3 +7,11 @@
 * [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 * [Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+* [Behance](https://www.behance.net/)
+
+* [Design Inspiration](https://www.designspiration.com/explore)
+
+* [Closer&Closer](https://closerandcloser.co)
+
+* [dribbble](https://dribbble.com/)
