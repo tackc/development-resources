@@ -5,3 +5,5 @@
 * [CSS Gradients](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/)
 
 * [CSS clip-path Editor](https://codepen.io/stoumann/pen/abZxoOM) - Add a clipping path to an image with pre-made shapes
+
+* [How to Fall In Love With Single Div Illustrations](https://dev.to/albertwalicki/how-to-fall-in-love-with-single-div-illustrations-1a5)
