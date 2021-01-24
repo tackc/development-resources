@@ -75,3 +75,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [CSS Tricks](https://css-tricks.com)
 
 * [Bulma](https://bulma.io) - Bulma is a free, open source CSS framework based on Flexbox
+
+* [Tachyons](https://tachyons.io) - Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
