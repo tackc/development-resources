@@ -16,6 +16,8 @@
 }
 ```
 
+* [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+
 ### [Scroll Snap](https://blog.logrocket.com/how-to-use-css-scroll-snap/) - Customize scroll-stop points on a page
 There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align`
 ``` CSS
