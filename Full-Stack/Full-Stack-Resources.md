@@ -48,3 +48,7 @@ It works on every platform, browser or device, focusing equally on reliability a
     - Techniques for improving site performance.
     - Measuring performance and user experience.
     - Essential metrics for a healthy site.
+
+## Performance
+
+* [How Smashing Magazine Improved Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
