@@ -52,6 +52,8 @@
 
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+* [Advice (From Someone Who Hires) on Getting Your First Software Engineering Job](https://medium.com/better-programming/advice-from-someone-who-hires-on-getting-your-first-software-engineering-job-81a328dd302b)
+
 ## Salary
 
 * [Levels FYI](https://www.levels.fyi)
