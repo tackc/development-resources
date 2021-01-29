@@ -74,3 +74,12 @@ JavaScript numbers natively support conversion to binary representations via the
 * [State of JS 2020](https://stateofjs.com/)
 
 * [Unit Testing](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
+
+## Useful JavaScript Snippets
+
+* Check if the current tab is in view / focus
+```js
+  const isBrowserTabInView = () => document.hidden;
+  isBrowserTabInView();
+  // Result: returns true or false depending on if tab is in view / focus
+```
