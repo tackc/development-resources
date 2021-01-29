@@ -13,7 +13,7 @@
 even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
 
 * [11 Useful Online Tools](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
-    - [CanIUse](http://caniuse.com) - Check browser compatability
+    - [CanIUse](http://caniuse.com) - Check browser compatibility
     - [Minify](http://minify.com) - Reduce file size by reducing whitespaces and dead code
     - [Bit.dev](https://bit.dev) - Reusable components
     - [Unminify](https://unminify.com)
