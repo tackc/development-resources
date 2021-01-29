@@ -106,3 +106,10 @@ elementIsInFocus(anyElement)
   console.log(isAppleDevice);
   // Result: will return true if user is on an Apple device
 ```
+
+* Scroll to top of the page
+```js
+  const goToTop = () => window.scrollTo(0, 0);
+goToTop();
+  // Result: will scroll the browser to the top of the page
+```
