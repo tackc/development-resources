@@ -92,3 +92,10 @@ JavaScript numbers natively support conversion to binary representations via the
   console.log(timeFromDate(new Date()));
   // Result: will log the current time
 ```
+
+* Check if an element is currently in focus
+```js
+  const elementIsInFocus = (el) => (el === document.activeElement);
+elementIsInFocus(anyElement)
+// Result: will return true if in focus, false if not in focus
+```
