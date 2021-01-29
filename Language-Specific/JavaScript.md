@@ -99,3 +99,10 @@ JavaScript numbers natively support conversion to binary representations via the
 elementIsInFocus(anyElement)
 // Result: will return true if in focus, false if not in focus
 ```
+
+* Check if the current user is on an Apple device
+```js
+  const isAppleDevice = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
+  console.log(isAppleDevice);
+  // Result: will return true if user is on an Apple device
+```
