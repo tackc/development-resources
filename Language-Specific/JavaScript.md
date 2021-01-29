@@ -47,7 +47,7 @@ JavaScript numbers natively support conversion to binary representations via the
   // This wil log "How are you?" to the console.
 ```
 
-* You can add multiple event listners to the same element:
+* You can add multiple event listeners to the same element:
 ```
   const button = document.querySelector(".btn")
   

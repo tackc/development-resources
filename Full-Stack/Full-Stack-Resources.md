@@ -14,7 +14,7 @@ even if your API doesn't exist.](https://miragejs.com) - Mirage JS is an API moc
 
 * [11 Useful Online Tools](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
     - [CanIUse](http://caniuse.com) - Check browser compatibility
-    - [Minify](http://minify.com) - Reduce file size by reducing whitespaces and dead code
+    - [Minify](http://minify.com) - Reduce file size by reducing whitespace and dead code
     - [Bit.dev](https://bit.dev) - Reusable components
     - [Unminify](https://unminify.com)
     - [Stackblitz](http://stackblitz.com) - Quick scaffold of Angular, React, Vue, Vanilla, RxJS, and TypeScript projects
