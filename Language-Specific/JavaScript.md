@@ -113,3 +113,10 @@ elementIsInFocus(anyElement)
 goToTop();
   // Result: will scroll the browser to the top of the page
 ```
+
+* Get average value of arguments
+```js
+  const average = (...args) => args.reduce((a, b) => a + b) / args.length;
+  average(1, 2, 3, 4);
+  // Result: 2.5
+```
