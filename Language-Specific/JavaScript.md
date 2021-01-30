@@ -134,3 +134,34 @@ goToTop();
   fahrenheitToCelsius(59);    // 15
   fahrenheitToCelsius(32);    // 0
 ```
+
+# ES2021 (ES 12)
+
+* ```js
+  String.prototype.replaceAll()
+  ```
+
+* Logical Assignment Operators
+  ```js
+  // The Old Way
+  if (!a) {
+    a = b
+  }
+  // or 
+  a = a || b
+  // Using a Logical Assignment Operator
+  a ||= b
+  ```
+
+* Numeric Separators
+  ```js
+  // You can break the digits in any way
+  const BIGNUMBER = 1234_5678_9_0;  // 1234567890
+  // Even after the comma/period
+  const PI = 3.1415_9265_3589;     // 3.141592653589
+  // However, ending or beginning with an underscore will return an error!
+  const BAD_PI = 3.14_15_;          // SyntaxError
+  const NO_MILLION = _1_000_000;    // ReferenceError
+  ```
+
+* Promise.any
