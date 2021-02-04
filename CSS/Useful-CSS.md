@@ -81,3 +81,5 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [Tachyons](https://tachyons.io) - Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
 
 * [Top 5 CSS Gotchas](https://sargalias.medium.com/the-top-5-css-gotchas-and-a-few-bonus-d39755c79527)
+
+* [Masonry Layout](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
