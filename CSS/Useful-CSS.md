@@ -85,3 +85,4 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 * [Masonry Layout](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 
 * Use `overflow-x: auto` to allow scrolling on the x-axis
+* If entire page is scrolling and / or too wide, check out [this article](https://ishadeed.com/article/min-content-size-css-grid/)
