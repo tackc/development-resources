@@ -70,6 +70,61 @@
 * [Organizing React Projects](https://dev.to/chrisachard/tips-for-organizing-react-projects-191)
 
 * [Javascript Closures and React](https://medium.com/swlh/javascript-closures-and-react-4c0e3f705a6c)
+
+## Best Practices
+
+* Keep files to 200 lines or less
+* Move helper functions into a separate `component.utils.ts` file and constants into a `component.constants.ts` file to make the component smaller and easier to read.
+* Destructure props so you aren't writing 'props' everywhere.
+  ```js
+    // Don't repeat props everywhere :(
+    const Input = (props) => {
+      return <input value={props.value} onChange={props.onChange}/>
+    }
+
+    // Destructure and use the straight values :)
+    const Input = ({value, onChange}) => (
+      <input value={value} onChange={onChange} />
+    )
+  ```
+* Avoid nesting render functions
+* Short circuit operators are a very short and easy way to do conditional rendering:
+  ```js
+    // Short circuit operator
+    const Counter = ({count}) => {
+      return <div>
+        {count && <h1>Count: {count}</h1>}
+      </div>
+    }
+  ```
+* Assign default props when destructuring
+* Move lists into separate components
+  ```js
+    // Don't write lops with the rest of the code
+    const Component = ({title, cards}) => {
+      return <div>
+        <h1>{title}</h1>
+        {
+          cards.map(({title: cardTitle, subtitle, image}) => ({
+            <div>
+              <h3>{cardTitle}</h3>
+              <h5>{subtitle}</h5>
+              <img src={image} />
+            </div>
+          }))
+        }
+      </div>
+    }
+
+    // Break it up into a separate list component
+    const Component = ({title, cards}) => {
+      return <div>
+        <h1>{title}</h1>
+        <CardsList cards={cards} />
+      </div>
+    }
+  ```
+
 ## Useful Libraries
 
 * [react-select](https://react-select.com/home) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
