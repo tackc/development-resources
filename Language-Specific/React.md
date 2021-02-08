@@ -136,3 +136,7 @@
 * [antd](https://ant.design) - Ant Design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 
 * [Flux](https://facebook.github.io/flux/) - Application architecture for building user interfaces
+
+* Form handling libraries:
+  * [Formik](https://formik.org) - Formik is the world's most popular open source form library for React and React Native.
+  * [React Hook Form](https://react-hook-form.com) - Performant, flexible and extensible forms with easy-to-use validation.
