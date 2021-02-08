@@ -131,7 +131,7 @@
 
 * [react-dnd](https://react-dnd.github.io/react-dnd/about) - React DnD is a set of React utilities to help you build complex drag and drop interfaces while keeping your components decoupled. It is a perfect fit for apps like Trello and Storify
 
-* [ react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG powered component to easily create skeleton loadings(like Facebook’s card loading).
+* [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG powered component to easily create skeleton loadings(like Facebook’s card loading).
 
 * [antd](https://ant.design) - Ant Design - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 
