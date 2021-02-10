@@ -164,4 +164,4 @@ goToTop();
   const NO_MILLION = _1_000_000;    // ReferenceError
   ```
 
-* Promise.any
+* Promise.any - The Promise.any method takes an array of Promises and will return as soon as the first one is Fulfilled.
