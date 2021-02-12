@@ -140,3 +140,5 @@
 * Form handling libraries:
   * [Formik](https://formik.org) - Formik is the world's most popular open source form library for React and React Native.
   * [React Hook Form](https://react-hook-form.com) - Performant, flexible and extensible forms with easy-to-use validation.
+
+  * [Chakra UI](https://chakra-ui.com) - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
