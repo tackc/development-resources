@@ -16,6 +16,8 @@
 
 * [The 7 JS Array Methods you will need in 2021](https://medium.com/dailyjs/the-7-js-array-methods-you-will-need-in-2021-a9faa83b50e8)
 
+* [JS Cheatsheet](https://htmlcheatsheet.com/js/)
+
 ## Testing
 * [Mocha JS](https://mochajs.org) - Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
