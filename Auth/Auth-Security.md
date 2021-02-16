@@ -24,3 +24,20 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
 * [Authentication without password](https://magic.link) - One SDK for passwordless, WebAuthn, and social login - fully customizable.
 
 * [Inside a Hacker's Backpack: Gadgets, Tips, and Tricks for Hackers](https://hackernoon.com/inside-a-hackers-backpack-gadgets-tips-and-tricks-for-hackers-5i6b31ie)
+
+## Security Considerations before deploying a Web App
+
+* [CORS](https://www.test-cors.org) - It’s common to use a very permissive CORS configuration in the development stage and to accidentally deploy this configuration in a production environment.
+
+* [SQL Injection](http://sqlmap.org/) - sqlmap is a great tool to identify SQL injection flaws.
+
+* [HTTP Security Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers#security)
+    * XSS attacks - A cross-site scripting (XSS) attack consists of the execution of arbitrary JavaScript code injected by an attacker into a trusted website.
+
+    * Clickjacking - Clickjacking consists of hijacking the interaction of the user in a website, such as their clicks or keystrokes, using an invisible frame in the top layer to trick the user into performing unintended operations.
+
+    * CSRF attacks - Cross-site request forgery (CSRF) is an attack that forces a user’s browser to execute unwanted actions on a web application in which they’re currently logged into.
+
+* Error Handling - Avoid exposing information in the errors that could be useful for attackers (like technologies, versions, or very descriptive messages). Handle HTTP errors by just returning standard status codes and generic responses.
+
+* Logging, Monitoring, and Audit - It’s paramount to create and keep a log of the application server to be able to know what happened at any moment in time.
