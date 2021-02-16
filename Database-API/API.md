@@ -7,3 +7,5 @@
 # API Design
 
 * [9 Best Practices for REST API Design](https://medium.com/weekly-webtips/9-best-practices-for-rest-api-design-7fb0b462099b)
+
+* [OpenAPI Specification](https://swagger.io/specification/)
