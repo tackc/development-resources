@@ -35,3 +35,5 @@
 * [Skeleton Loading Screen](https://medium.com/better-programming/the-what-why-and-how-of-using-a-skeleton-loading-screen-e68809d7f702)
 
 * [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+
+* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program.
