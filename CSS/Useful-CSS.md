@@ -93,3 +93,8 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 
 * Use `overflow-x: auto` to allow scrolling on the x-axis
 * If entire page is scrolling and / or too wide, check out [this article](https://ishadeed.com/article/min-content-size-css-grid/)
+
+* [Responsive CSS Grid without media queries](https://medium.com/dev-genius/css-grid-responsive-without-media-queries-2351cf3bf386)
+```css
+grid-template-columns: repeat(auto-fit, minmax([width], 1fr));
+```
