@@ -67,6 +67,32 @@ There are two primary properties needed: `scroll-snap-type` & `scroll-snap-align
 }
 ```
 
+* Extend Clickable Area
+```css
+button {
+  border: none;
+  background: #222;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+}
+button::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 200%;
+  height: 200%;
+  display: inline-block;
+  /* for demo purpose only - should be removed   */
+  background: rgba(0,0,0,0.2);
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
