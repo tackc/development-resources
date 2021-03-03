@@ -171,3 +171,7 @@ goToTop();
   ```
 
 * Promise.any - The Promise.any method takes an array of Promises and will return as soon as the first one is Fulfilled.
+
+## Useful Javascript Libraries
+
+* [Lodash](https://lodash.com) - Lodash is a modern JavaScript utility library for quickly achieving tasks. Mostly useful for its wide range of array and object functions, this library can be useful in almost all projects.
