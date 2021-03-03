@@ -175,3 +175,5 @@ goToTop();
 ## Useful Javascript Libraries
 
 * [Lodash](https://lodash.com) - Lodash is a modern JavaScript utility library for quickly achieving tasks. Mostly useful for its wide range of array and object functions, this library can be useful in almost all projects.
+
+* [UUID](https://www.npmjs.com/package/uuid) - UUID is a very small package for quickly generating UUIDs (or universally unique identifiers).
