@@ -93,6 +93,14 @@ button::after {
 }
 ```
 
+* Frosted Glass Effect
+```css
+.container {
+   background-color: rgba(255, 255, 255, .15);
+   backdrop-filter: blur(5px);
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
