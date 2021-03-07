@@ -101,6 +101,15 @@ button::after {
 }
 ```
 
+### Initial Letter
+```css
+initial-letter: normal | [<number><integer>];
+```
+
+    - normal : It does not apply a scaling effect on the first letter. This can be useful for resetting the value where one might be inherited from the cascade.
+    - <number> How many lines the letter should occupy where negative values are not allowed.
+    - <integer> How many lines the letter should sink where negative values are not allowed. This is handy should you need to position the letter lower to accommodate tricky spacing issues but, if not specified, it takes the value of <number>.
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
