@@ -110,6 +110,74 @@ initial-letter: normal | [<number><integer>];
     - <number> How many lines the letter should occupy where negative values are not allowed.
     - <integer> How many lines the letter should sink where negative values are not allowed. This is handy should you need to position the letter lower to accommodate tricky spacing issues but, if not specified, it takes the value of <number>.
 
+## Animated gradient background
+```html
+<div id="gradient">
+  <div class="headline">
+    <h1>GRADIENT</h1>
+  </div>
+</div>
+```
+```css
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.headline {
+
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  height: 50%;
+  width: 50%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: -5px;
+  color: #fff;
+}
+
+.headline h1 {
+  border: 3px solid #FFF;
+  padding: 20px;
+  font-size: 8vw;
+}
+
+#gradient {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: linear-gradient(270deg, #003366, #b27000, #06617d, #067370);
+  background-size: 800% 800%;
+  -webkit-animation: colors 30s ease infinite;
+  -moz-animation: colors 30s ease infinite;
+  animation: colors 30s ease infinite;
+}
+
+@-webkit-keyframes colors {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@-moz-keyframes colors {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@keyframes colors { 
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
