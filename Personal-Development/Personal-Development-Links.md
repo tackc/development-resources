@@ -22,6 +22,10 @@
 
 * [34 Hard Truths You Should Know Before Becoming “Successful”](https://benjaminhardy.com/35-hard-truths-you-should-know-before-becoming-successful-2/)
 
+* [Generate Flowchart from Text](https://flowchart.fun/)
+
+---
+
 ### Context Based Learning
 
   1. Learn a concept
