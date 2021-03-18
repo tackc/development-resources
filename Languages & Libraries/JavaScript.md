@@ -22,6 +22,8 @@
 
 * [The Vanilla JS Toolkit](https://vanillajstoolkit.com/reference/)
 
+* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
 ## Testing
 * [Mocha JS](https://mochajs.org) - Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
