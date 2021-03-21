@@ -25,6 +25,8 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
 
 * [Inside a Hacker's Backpack: Gadgets, Tips, and Tricks for Hackers](https://hackernoon.com/inside-a-hackers-backpack-gadgets-tips-and-tricks-for-hackers-5i6b31ie)
 
+* [security.txt - A proposed standard which allows websites to define security policies.](https://securitytxt.org/)
+
 ## Security Considerations before deploying a Web App
 
 * [CORS](https://www.test-cors.org) - It’s common to use a very permissive CORS configuration in the development stage and to accidentally deploy this configuration in a production environment.
