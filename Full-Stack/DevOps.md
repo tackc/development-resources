@@ -7,3 +7,5 @@
 - [Gatsby with WordPress](https://www.gatsbyjs.com/guides/wordpress/)
 
 - [Deploying to a server via SSH and Rsync in a Github Action](https://zellwk.com/blog/github-actions-deploy/)
+
+- [Understanding How to Use GitHub Actions](https://zellwk.com/blog/understanding-github-actions/?ck_subscriber_id=1002155294)
