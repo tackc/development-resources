@@ -45,3 +45,5 @@
 * [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos.
 
 * [Flaticon](https://www.flaticon.com) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+
+* [Building Dark Mode](https://blog.sentry.io/2021/03/16/building-dark-mode/?utm_source=CSS-Weekly&utm_campaign=Issue-452&utm_medium=email)
