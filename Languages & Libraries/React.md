@@ -73,6 +73,8 @@
 
 * [Javascript Closures and React](https://medium.com/swlh/javascript-closures-and-react-4c0e3f705a6c)
 
+* [Simple tips for writing clean React components] - (https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e)
+
 ## Best Practices
 
 * Keep files to 200 lines or less
