@@ -211,6 +211,8 @@ h1 {
 ```css
 grid-template-columns: repeat(auto-fit, minmax([width], 1fr));
 ```
+
+* [How to Improve CSS Performance](https://calibreapp.com/blog/css-performance)
 ##  Find unused CSS
   * [UnusedCSS - Clean Your CSS](https://unused-css.com)
   * [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets
