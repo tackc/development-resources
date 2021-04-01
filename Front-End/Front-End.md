@@ -49,3 +49,5 @@
 * [Building Dark Mode](https://blog.sentry.io/2021/03/16/building-dark-mode/?utm_source=CSS-Weekly&utm_campaign=Issue-452&utm_medium=email)
 
 * [Top 14 Static Site Generators for Building Fastest Web Applications](https://javascript.plainenglish.io/top-14-static-site-generators-for-building-fastest-web-applications-c17cf7c9c929)
+
+* [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/)
