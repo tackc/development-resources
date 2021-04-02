@@ -8,4 +8,7 @@
   xattr -d com.apple.quarantine /Applications/LICEcap.app
   ```
   - In System Preferences > Security & Privacy > Privacy tab > Full Disk Access sidebar option: unlock the panel and click + to add a new entry for the LICEcap application.
-  
+
+## Video
+
+- [56 Cinematic LUTS for Your Next Project](https://nofilmschool.com/download-these-free-56-cinematic-luts)
