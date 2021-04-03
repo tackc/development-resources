@@ -21,3 +21,5 @@
 * [One Page Love](https://onepagelove.com) - One Page websites, templates and resources
 
 * [Codrops](https://tympanus.net/codrops/)
+
+* [UI Design Daily](https://www.uidesigndaily.com)
