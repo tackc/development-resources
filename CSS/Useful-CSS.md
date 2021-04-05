@@ -195,6 +195,14 @@ h2{
 }
 ```
 
+* Blend modes
+```css
+.blend h1 { 
+  font-size: 150px;
+  mix-blend-mode: overlay;
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
