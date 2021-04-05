@@ -23,3 +23,7 @@
 * [Codrops](https://tympanus.net/codrops/)
 
 * [UI Design Daily](https://www.uidesigndaily.com)
+
+* [awwwards](https://www.awwwards.com)
+
+* [Httpster](https://httpster.net/)
