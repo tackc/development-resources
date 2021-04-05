@@ -185,6 +185,16 @@ div{
 }
 ```
 
+* Writing Direction - The property writing-mode sets the direction of text lines in CSS to be vertical or horizontal.
+```css
+h1{
+  writing-mode: vertical-lr;
+}
+h2{
+  writing-mode: horizontal-tb;
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
