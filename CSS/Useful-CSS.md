@@ -178,6 +178,13 @@ h1 {
 }
 ```
 
+* CSS calc function - The example below creates a div that stretches across the window, with a 200px gap between both sides of the div and the edges of the window.
+```css
+div{
+ width: calc(100% - 200px);
+}
+```
+
 ---
 
 * [Grid Layoutit](https://grid.layoutit.com) - quickly set up a grid layout
