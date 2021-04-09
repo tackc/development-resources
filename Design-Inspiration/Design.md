@@ -1,29 +1,31 @@
 # Design Inspiration
 
-* [Design Snips](http://designsnips.com/category/inspiration/)
+- [10 Do’s and Dont’s of Mobile App Design](https://xd.adobe.com/ideas/principles/app-design/10-dos-donts-mobile-app-design/?trackingid=1NZGDB2X&mv=email)
 
-* [MSKTR Fashion Instagram Stories](https://elements.envato.com/msktr-fashion-instagram-stories-2CZH4H) - I really like this design for an image portfolio app
+- [Design Snips](http://designsnips.com/category/inspiration/)
 
-* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [MSKTR Fashion Instagram Stories](https://elements.envato.com/msktr-fashion-instagram-stories-2CZH4H) - I really like this design for an image portfolio app
 
-* [Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
-* [Behance](https://www.behance.net/)
+- [Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
-* [Design Inspiration](https://www.designspiration.com/explore)
+- [Behance](https://www.behance.net/)
 
-* [Closer&Closer](https://closerandcloser.co)
+- [Design Inspiration](https://www.designspiration.com/explore)
 
-* [dribbble](https://dribbble.com/)
+- [Closer&Closer](https://closerandcloser.co)
 
-* [Inspiration Grid](https://theinspirationgrid.com)
+- [dribbble](https://dribbble.com/)
 
-* [One Page Love](https://onepagelove.com) - One Page websites, templates and resources
+- [Inspiration Grid](https://theinspirationgrid.com)
 
-* [Codrops](https://tympanus.net/codrops/)
+- [One Page Love](https://onepagelove.com) - One Page websites, templates and resources
 
-* [UI Design Daily](https://www.uidesigndaily.com)
+- [Codrops](https://tympanus.net/codrops/)
 
-* [awwwards](https://www.awwwards.com)
+- [UI Design Daily](https://www.uidesigndaily.com)
 
-* [Httpster](https://httpster.net/)
+- [awwwards](https://www.awwwards.com)
+
+- [Httpster](https://httpster.net/)
