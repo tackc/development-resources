@@ -237,6 +237,8 @@ h2{
 grid-template-columns: repeat(auto-fit, minmax([width], 1fr));
 ```
 
+* [CSS Grid Inspector](https://webkit.org/blog/11588/introducing-css-grid-inspector/?utm_source=CSS-Weekly&utm_campaign=Issue-456&utm_medium=email) - CSS Grid Layout is a web-standard layout system used to define a grid structure of rows and columns in CSS. HTML elements can then be distributed to the resulting grid cells to achieve a flexible and predictable layout.
+
 * [How to Improve CSS Performance](https://calibreapp.com/blog/css-performance)
 
 * Set smart-area at bottom of mobile devices 
