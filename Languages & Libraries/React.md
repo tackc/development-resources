@@ -75,6 +75,8 @@
 
 * [Simple tips for writing clean React components](https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e)
 
+* [Top React component libraries (2021 edition)](https://retool.com/blog/react-component-libraries/)
+
 ## Best Practices
 
 * Keep files to 200 lines or less
