@@ -6,6 +6,8 @@
 
 * [Personality Isn't Permanent](https://benjaminhardy.com) - In Personality Isn’t Permanent, Dr. Benjamin Hardy draws on psychological research to demolish the popular misconception that personality—a person’s consistent attitudes and behaviors—is innate and unchanging.
 
+* [The Catalyst: How to Change Anyone's Mind](https://www.amazon.com/Catalyst-How-Change-Anyones-Mind/dp/1982108606)
+
 ## Benjamin Hardy Recommendations
 
 - [Napolean Hill](https://www.naphill.org/)
