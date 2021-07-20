@@ -251,6 +251,12 @@ grid-template-columns: repeat(auto-fit, minmax([width], 1fr));
   padding-bottom calc( env(safe-area-inset-bottom) + 20px )
 }
 ```
+
+* Useful CSS selectors to use when applying same style to multiple elements
+```CSS
+  :where()
+  :is()
+```
 ##  Find unused CSS
   * [UnusedCSS - Clean Your CSS](https://unused-css.com)
   * [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets
