@@ -1,53 +1,56 @@
 # Front End Helpers
 
-* [Create an Image Grid - w3 Schools](https://www.w3schools.com/howto/howto_js_image_grid.asp)
+- [Create an Image Grid - w3 Schools](https://www.w3schools.com/howto/howto_js_image_grid.asp)
 
-* [Flexbox Patterns](https://www.flexboxpatterns.com)
+- [Flexbox Patterns](https://www.flexboxpatterns.com)
 
-* [CSS Web Almanac](https://almanac.httparchive.org/en/2019/css?utm_source=CSS-Weekly&utm_campaign=Issue-387&utm_medium=email#introduction)
+- [CSS Web Almanac](https://almanac.httparchive.org/en/2019/css?utm_source=CSS-Weekly&utm_campaign=Issue-387&utm_medium=email#introduction)
 
-* [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+- [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
-* [CSS Layouts](https://csslayout.io/) - a collection of popular layouts and patterns made with CSS
+- [CSS Layouts](https://csslayout.io/) - a collection of popular layouts and patterns made with CSS
 
-* [Number Inputs](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) - best practices for implementing a number input that is accessible
+- [Number Inputs](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) - best practices for implementing a number input that is accessible
 
-* [6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)
+- [6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)
 
-* [5 Front-End Predictions and Trends for 2020](https://medium.com/better-programming/5-front-end-predictions-and-trends-for-2020-afc949e0eba2)
+- [5 Front-End Predictions and Trends for 2020](https://medium.com/better-programming/5-front-end-predictions-and-trends-for-2020-afc949e0eba2)
 
-* [Baymard Institute - UX Research](https://baymard.com) - "Empower Your E-Commerce Design with 49,000+ Hours of UX Research"
+- [Baymard Institute - UX Research](https://baymard.com) - "Empower Your E-Commerce Design with 49,000+ Hours of UX Research"
 
-* [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource. [Here is a link directly to the PDF](https://toc.cryptobook.us/book.pdf)
+- [BUTTERICK’S PRACTICAL TYPOGRAPHY](https://practicaltypography.com/) - Detailed typography resource. [Here is a link directly to the PDF](https://toc.cryptobook.us/book.pdf)
 
-* [MVP.CSS](https://andybrewer.github.io/mvp/) - When you're ready to launch a site already without making it look perfect. MVP styles your root elements so you don't need to learn a new CSS framework or naming conventions
+- [MVP.CSS](https://andybrewer.github.io/mvp/) - When you're ready to launch a site already without making it look perfect. MVP styles your root elements so you don't need to learn a new CSS framework or naming conventions
 
-* [Useful Code Snippets](https://www.30secondsofcode.org)
+- [Useful Code Snippets](https://www.30secondsofcode.org)
 
-* APIs to know:
-  * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-  * [Canvas API](https://www.w3schools.com/tags/ref_canvas.asp)
-  * [Full Screen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
-  * [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
-  * [Payment Request API](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
-  * [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+- APIs to know:
 
-* [Skeleton Loading Screen](https://medium.com/better-programming/the-what-why-and-how-of-using-a-skeleton-loading-screen-e68809d7f702)
+  - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  - [Canvas API](https://www.w3schools.com/tags/ref_canvas.asp)
+  - [Full Screen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
+  - [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
+  - [Payment Request API](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API)
+  - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 
-* [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+- [Skeleton Loading Screen](https://medium.com/better-programming/the-what-why-and-how-of-using-a-skeleton-loading-screen-e68809d7f702)
 
-* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program.
+- [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 
-* [Responsively](https://responsively.app) - apps 5x faster!
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) - With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program.
 
-* [unDraw](https://undraw.co/illustrations) - Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.
+- [Responsively](https://responsively.app) - apps 5x faster!
 
-* [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos.
+- [unDraw](https://undraw.co/illustrations) - Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.
 
-* [Flaticon](https://www.flaticon.com) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+- [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos.
 
-* [Building Dark Mode](https://blog.sentry.io/2021/03/16/building-dark-mode/?utm_source=CSS-Weekly&utm_campaign=Issue-452&utm_medium=email)
+- [Flaticon](https://www.flaticon.com) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 
-* [Top 14 Static Site Generators for Building Fastest Web Applications](https://javascript.plainenglish.io/top-14-static-site-generators-for-building-fastest-web-applications-c17cf7c9c929)
+- [Building Dark Mode](https://blog.sentry.io/2021/03/16/building-dark-mode/?utm_source=CSS-Weekly&utm_campaign=Issue-452&utm_medium=email)
 
-* [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/)
+- [Top 14 Static Site Generators for Building Fastest Web Applications](https://javascript.plainenglish.io/top-14-static-site-generators-for-building-fastest-web-applications-c17cf7c9c929)
+
+- [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/)
+
+- [9 best free font resources for designers (2021)](https://dribbble.com/stories/2020/02/17/free-fonts-for-designers?utm_campaign=2021-08-04&utm_medium=email)
