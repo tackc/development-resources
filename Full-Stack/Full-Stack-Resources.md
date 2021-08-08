@@ -53,6 +53,8 @@ It works on every platform, browser or device, focusing equally on reliability a
 
 * [Share code online with gist](https://gist.github.com/)
 
+- [How MDN’s Autocomplete Search Works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+
 ## Performance
 
 * [How Smashing Magazine Improved Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
