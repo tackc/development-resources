@@ -43,3 +43,5 @@ Applied Cryptography](https://toc.cryptobook.us/) - From beginner to advanced kn
 * Error Handling - Avoid exposing information in the errors that could be useful for attackers (like technologies, versions, or very descriptive messages). Handle HTTP errors by just returning standard status codes and generic responses.
 
 * Logging, Monitoring, and Audit - It’s paramount to create and keep a log of the application server to be able to know what happened at any moment in time.
+
+- [How to Win at CORS](https://jakearchibald.com/2021/cors/)
