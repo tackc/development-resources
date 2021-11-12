@@ -5,3 +5,5 @@
 * [Backup Strategies For Digital Photographers](https://fstoppers.com/business/bulletproof-backup-strategies-digital-photographers-23906)
 
 * [Synology + Lightroom](https://allangraves.medium.com/synology-lightroom-cc-708f69d7d66c) - Great article discussing using Lightroom with a Synology for storage
+
+* [Photography Backup Workflow](https://photographylife.com/photography-backup-workflow)
