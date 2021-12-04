@@ -262,6 +262,8 @@ grid-template-columns: repeat(auto-fit, minmax([width], 1fr));
 
 - [CSS Transform](https://www.joshwcomeau.com/css/transforms/) - Discussion on various transform functions and their uses
 
+- [Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+
 ##  Find unused CSS
   * [UnusedCSS - Clean Your CSS](https://unused-css.com)
   * [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets
