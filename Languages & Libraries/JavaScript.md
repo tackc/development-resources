@@ -184,6 +184,8 @@ if (x == 1 || x == 5 || x == 7) {
 [1, 5, 7].includes(x) && functionOne();
 ```
 
+- [How to Trim Strings in JavaScript](https://dmitripavlutin.com/javascript-string-trim/)
+
 ## Useful Javascript Libraries
 
 * [Lodash](https://lodash.com) - Lodash is a modern JavaScript utility library for quickly achieving tasks. Mostly useful for its wide range of array and object functions, this library can be useful in almost all projects.
