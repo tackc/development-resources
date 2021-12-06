@@ -54,3 +54,5 @@
 - [SVG Generators](https://www.smashingmagazine.com/2021/03/svg-generators/)
 
 - [9 best free font resources for designers (2021)](https://dribbble.com/stories/2020/02/17/free-fonts-for-designers?utm_campaign=2021-08-04&utm_medium=email)
+
+- [3 awesome tools for a better front-end dev experience](https://www.youtube.com/watch?v=CB3wsw0UCVc)
