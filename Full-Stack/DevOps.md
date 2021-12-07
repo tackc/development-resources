@@ -4,6 +4,8 @@
 
 - [Docker with WordPress](https://dev.to/lampewebdev/how-to-get-wordpress-running-with-docker-4mg6)
 
+- [Run Docker without Docker Desktop on macOS](https://dhwaneetbhatt.com/blog/run-docker-without-docker-desktop-on-macos)
+
 - [Gatsby with WordPress](https://www.gatsbyjs.com/guides/wordpress/)
 
 - [Deploying to a server via SSH and Rsync in a Github Action](https://zellwk.com/blog/github-actions-deploy/)
