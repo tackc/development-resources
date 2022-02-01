@@ -60,3 +60,5 @@
 - [Modern Fluid Typography Editor](https://modern-fluid-typography.vercel.app)
 
 - [Which Icon Is That?](https://www.whichiconisthat.com)
+
+- [Glide](https://glidejs.com) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast.
