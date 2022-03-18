@@ -58,3 +58,5 @@ It works on every platform, browser or device, focusing equally on reliability a
 ## Performance
 
 * [How Smashing Magazine Improved Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/)
+
+- [VS Code Extension Bisect](https://code.visualstudio.com/blogs/2021/02/16/extension-bisect#_welcome-extension-bisect) - built in tool for troubleshooting VS Code extensions
